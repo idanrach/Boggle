@@ -1,5 +1,3 @@
-README - EX12
-
 Main Menu - When the program first starts the player will first be directed to
 	the main menu, there he can select to either play, see the inforamtion
 	page or exit the game.
@@ -11,7 +9,7 @@ Difficulty levels - Upon pressing the 'play' option on the main menu, the player
 	have the option of going back to the main menu or choose between 2 
 	difficulty levels:
 	easy - the normal game by the given rules
-	hard - same dictiory but the minimum length for a word is 3 (by default).
+	hard - same dictionary but the minimum length for a word is 3 (by default).
 	(note: the length of the word can be changed with a magic number in the code)
 
 Help icon - In difficulty select menu this icon, shaped like a question mark, will make
